@@ -1,4 +1,4 @@
-.box1 {
+/* .box1 {
     width: 600px;
     height: 200px;
     background-color: #0da9f1;
@@ -17,4 +17,7 @@
     width: 100px;
     height: 250px ;
     background-color: #1310d8;
+} */
+body {
+    background-color: #FFE2B0;
 }
