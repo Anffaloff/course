@@ -6,5 +6,5 @@ alert (message);
 // let admin = userName;
 // alert (admin);
 
-let userNamename = prompt("Как тебя зовут?");
-alert (`Тебя зовут ${userNamename}`)
+// let userNamename = prompt("Как тебя зовут?");
+// alert (`Тебя зовут ${userNamename}`)
