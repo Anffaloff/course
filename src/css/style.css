@@ -49,8 +49,8 @@ a {
     height: 190px;
     background:linear-gradient(180deg, rgba(244, 213, 178, 0.8), rgba(234, 156, 65, 0.8) 100%);
     position: absolute;
-    top: 349px;
-    left: 730px;
+    top: 54%;
+    left: 50%;
     padding-top: 15px;
 }
 
